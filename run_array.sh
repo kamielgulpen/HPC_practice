@@ -4,7 +4,6 @@
 #SBATCH --error=logs/task_%A_%a.err
 #SBATCH --array=0-9
 #SBATCH --time=00:10:00
-#SBATCH --mem=1G
 #SBATCH --cpus-per-task=1
 
 # Print job info
