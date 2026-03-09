@@ -1,0 +1,9 @@
+{
+  "pi_estimate": 3.141536,
+  "num_samples": 1000000,
+  "inside_circle": 785384,
+  "error": 5.665358979323187e-05,
+  "seed": 5,
+  "elapsed_time": 5.055855989456177,
+  "task_id": 5
+}
