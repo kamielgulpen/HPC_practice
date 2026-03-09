@@ -84,9 +84,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
-
-### Create `requirements.txt`:
-```
-numpy>=1.21.0
-pandas>=1.3.0
